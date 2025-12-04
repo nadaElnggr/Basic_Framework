@@ -1,4 +1,4 @@
-# Wuzzuf Selenium Reporting Framework
+# Selenium Reporting Framework
 
 This repository contains an advanced **Selenium + TestNG** automation framework for testing the Wuzzuf site, with:
 
